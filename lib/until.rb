@@ -4,3 +4,7 @@ def using_until
     
 end
 
+until (condition) << run until condition is true 
+  action to take
+end 
+
